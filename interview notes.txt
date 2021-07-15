@@ -1,0 +1,166 @@
+INTERVIEW NOTES
+
+-:My first task is to sign up?"
+	-yes
+-"I tap on the sign up button"
+-"Generally what I would do first is look through before signing up. I'd click through each tab and see if it's something I'm interested in, and then sign up."
+-"Go ahead put my username as... I don't know... big bird"
+-"I go ahead and submit the information"
+
+-Next, use the seach feature to locate a purple finch
+
+-"I'm not sure what the correct icon is, as both the book and binoculars could be the search function"
+
+-"I tap on the binoculars" 
+	-It doesn't do anything
+-"uh, okay. I click on the book."
+	-turn to birdpedia page
+-"I type in the name 'purple finch' but I don't know the other information so I just type in the name and press search"
+	-present search results
+-"I'm surprised the purple finch wouldn't be on top, considering it's what I was searching for. But I do see the purple finch, so I click on that"
+	
+	-present purple finch page
+	
+	
+-"I'd read all the information on here and then scroll down to see the rest of the information on it."
+
+-new task
+
+-"There was a button that looked like that, maybe it was on the search page. Could you go back to that?"
+
+-go back to search page
+
+-"Cool. I tap on 'find species near me'"
+-"wait, did you mean most recent sighting in the local area?"
+
+- I clarify task
+
+-"I tap on the little map icon on the bottom"
+
+-"okay.. um.. I'd probably try to use the filter or gear button to see if there is a 'sort' option"
+
+-"try clicking the home button again"
+
+-"hmmm... ehhhhh... shoot what was on the book page... everything else was search criteria
+
+- UI doesn't make clear how to find *recent* sightings
+
+-"Guess I'll click on the map icon again, maybe I missed something"
+
+-user taps on book icon again
+
+-"I can't seem to find the recent bird sightings"
+
+-ask user to find profile
+
+-user immediatley indicates to tap the button on the far right of task bar at bottom of screen
+
+-ask user to find daily challenge first-place profile
+
+-user indicates to go home
+
+-"are you able to click on the daily challenge button?"
+
+-user taps on daily challenge icon
+
+-leaderboard seems to make sense to user
+
+-user taps on first-place icon, no problem here
+
+-user notices the "cool awards"
+	-"I'd probably read them and see what they're about"
+	
+-I bring the task back to finding recent local sightings
+
+-"the "local area" leads me to believ it's the map with the pin on it again"
+
+-map page presented
+
+-map pins aren't immedatily obvious to be interactable
+
+-"click home again"
+
+-I present home page
+
+-bald eagle sighting on front page may be misconstrued as most recent bird sighting
+
+-"okay profile again I guess"
+
+-"we'll click on book again"
+
+-user feels ready to give up
+	-"I must be missing something here"
+	
+-I present birdpedia
+
+-user wants to go to map again
+
+-"can you click on the bubbles"
+
+-on presentation, "interesting..."
+
+-user indicates he is ready to end this part of the interview
+
+REFLECTION SECTION
+What are your general thoughts about the workflow of these tasks?
+
+-I think for the most part, they're pretty intuitive
+-buttons are intuitive, could help me with most interestst when using it
+
+What difficulties did you encounter when trying to accomplish these tasks?
+
+-finding the most recent bird sighting in my area
+-the purple finch not being the top search result despite being exact word match for task description
+	-might have missed it had i not paid attention
+	
+For any difficulties you faced, what was your initial instinct?
+
+-for the finding nearest in my area, it would have been the pin on the map and then I would have instinctively used the filter of gear button to filter by recency, something of that nature
+-maybe if map had time signature on the pin. like '4:50 pm' with the date or something
+
+How difficult was searching for the “purple finch?”
+
+-on a scale from 1 to 10, 1 and a half
+
+How difficult was creating a new account?
+
+-0 out of 10
+
+How difficult was locating recent sightings in your area?
+
+-uh, like 7 out of 10
+
+How difficult was locating your own profile?
+
+-0 out of 10
+
+What information were you expecting to find in the Wiki page that wasn’t there?
+
+-*scans screen for several moments* maybe like, I don't know, more information or a more visual representation of these things. Maybe like a picture of the US and a shaded region where they're found or referernce to size with common household object
+
+What were your broad thoughts on the app’s navigation?
+
+-I think it has a very modern feel to it in the sense that a lot of application these days have a toolbar at the bottom with 4 or 5 different sections
+-logical
+-makes sense, looks sleek
+	-except for recent sightings
+	
+Did you find any feature particularly easy to understand?
+
+-search function
+-confused to see 'diet' as search criteria. Would have expected name and region
+	-would have been easier to user 'locale' if it was drop down menu
+-diet sticks out as search criteria
+	-"maybe unless you're looking up predatory birds"
+	
+If you could design this app, what are 2 things you would change immediately?
+
+-would change recent sightings to be something on the home page
+-refers back to encyclopedia listing -- add more visuals for information rather than text
+	-"maps and pictures make happy"
+	
+Do you have any final thoughts or comments?
+
+-"uh, nope. it's all good"
+
+
